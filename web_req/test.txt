@@ -1,0 +1,2608 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>
+    Indian Space Research Organisation
+  </title>
+  <meta
+    content="Indian Space Research Organisation (ISRO) is the space agency of India. The organisation is involved in science, engineering and technology to harvest the benefits"
+    name="description">
+  <meta content="" name="keywords">
+  <link href="/media_isro/image/favicon.png.webp" rel="icon">
+</head>
+
+<body>
+  <!-- ======= Header starts ======= -->
+  <script src="header/header_include.js">
+  </script>
+  <!-- ======= Header Ends ======= -->
+  <!--  flash news begins -->
+  <div class="container" data-aos="fade-up">
+    <div class="row">
+      <div class="col-12 mt-2 mb-0">
+        <div class="carousel slide" data-bs-ride="carousel" id="myCarousel_f">
+
+
+          <div class="carousel-inner">
+
+
+            <div class="carousel-item active">
+              <p class="flashContent">
+                <b class="flash">
+                  Flash News:
+                </b>
+                <a class="light" href="mission_SpaDeX.html" title="PSLV C60/SPADEX Mission is scheduled on 30th December  2024 at 21:58 hrs IST from SDSC SHAR, Sriharikota"
+                  target="_blank">
+                  PSLV C60/SPADEX Mission is scheduled on 30<sup>th</sup> December  2024 at 21:58 hrs IST from SDSC SHAR, Sriharikota
+                </a>
+
+              </p>
+            </div>
+            
+            <div class="carousel-item">
+              <p class="flashContent">
+                <b class="flash">
+                  Flash News:
+                </b>
+                PSLV C60/SPADEX Mission - Registration for the public for witnessing the launch from Launch View Gallery at SDSC SHAR starts on 23-12-2024 at 18.00 Hrs.
+                <a class="out" href="#" style="cursor:pointer; color:#fbff00; text-decoration: none;" onclick="outsideAlert('https://lvg.shar.gov.in/VSCREGISTRATION/index.jsp')" rel="noopener noreferrer"
+                title=" PSLV C60/SPADEX Mission - Registration for the public for witnessing the launch from Launch View Gallery at SDSC SHAR starts on 23-12-2024 at 18.00 Hrs"> REGISTER HERE
+
+                </a> </p>
+            </div>
+            <div class="carousel-item">
+              <p class="flashContent">
+                <b class="flash">
+                  Flash News:
+                </b>
+                <a class="light" href="Poster_START2025_Website.html" title="START 2025 - Space Science and Technology Awareness Training Programme"
+                  target="_blank">
+                  START 2025 - Space Science and Technology Awareness Training Programme
+                </a>
+
+              </p>
+            </div>
+            <div class="carousel-item">
+              <p class="flashContent">
+                <b class="flash">
+                  Flash News:
+                </b>
+                <a class="light" href="RESPOND_BASKET_2024.html" title="RESPOND BASKET 2024 "
+                  target="_blank">
+                  RESPOND BASKET 2024 released – last date for submitting the proposals is 31<sup>st</sup> Jan 2025.
+
+                </a>
+
+              </p>
+            </div>
+
+            <div class="carousel-item">
+              <p class="flashContent">
+                <b class="flash">
+                  Flash News:
+                </b>
+                <a class="light" href="PSLV_C59_PROBA-3_Mission.html" title="The PSLV-C59/PROBA-3 Mission has successfully achieved its launch objectives, deploying ESA’s satellites into their designated orbit with precision. "
+                  target="_blank">
+                  The PSLV-C59/PROBA-3 Mission has successfully achieved its launch objectives, deploying ESA’s satellites into their designated orbit with precision.
+
+                </a>
+
+              </p>
+            </div>
+            <!-- <div class="carousel-item">
+              <p class="flashContent">
+                <b class="flash">
+                  Flash News:
+                </b>
+                <a class="light" href="PSLV_C59_PROBA-3_Livestreaming.html" title="Launch Streaming of  PSLV-C59/PROBA-3 Mission "
+                  target="_blank">
+                  Watch Launch Streaming of  PSLV-C59/PROBA-3 Mission on 5<sup>th</sup> Dec 2024 from 15:40 Hrs onwards
+
+
+                </a>
+              </p>
+            </div> -->
+
+            <div class="carousel-item">
+              <p class="flashContent">
+                <b class="flash">
+                  Flash News:
+                </b>
+                <a class="light" href="/media_isro/pdf/Highlights/GLEX_2025_Brochure.pdf" title="GLEX 2025"
+                  target="_blank">
+                  Global Space Exploration Conference (GLEX) 2025 - 7<sup>th</sup>-9<sup>th</sup>, May 2025
+
+                </a>
+              </p>
+            </div>
+            <div class="carousel-item">
+              <p class="flashContent">
+                <b class="flash">
+                  Flash News:
+                </b>
+                <a class="light" href="Mission_SSLV_D3.html" title="Mission SSLV - D3" target="_blank">
+                  The third developmental flight of SSLV is successful. The SSLV-D3 placed EOS-08 precisely into the
+                  orbit.
+                </a>
+              </p>
+            </div>
+
+            <div class="carousel-item">
+              <p class="flashContent">
+                <b class="flash">
+                  Flash News:
+                </b>
+                <a class="light" href="ISRO_Completes_RLV_Technology_Demonstrations_RLV-LEX3.html"
+                  title="ISRO completes its RLV technology demonstrations through LEX trio">
+                  ISRO completes its RLV technology demonstrations through LEX trio</a>
+              </p>
+            </div>
+
+
+
+            <!-- <div class="carousel-item ">
+              <p class="flashContent">
+                <b class="flash">
+                  Flash News:
+                </b>
+                <a class="light" href="RLV_Landing_Experiment.html">
+                  Reusable Launch Vehicle Landing Experiment from off-nominal initial conditions is successfully
+                  accomplished.</a>
+              </p>
+            </div> -->
+
+            <div class="carousel-item ">
+              <p class="flashContent">
+                <b class="flash">
+                  Flash News:
+                </b>
+                <span class="out" style="cursor:pointer; color:white; text-decoration: none;"
+                  onclick="outsideAlert('https://www.youtube.com/watch?v=y0V1MEc_Ozg')" rel="noopener noreferrer"
+                  title=" ISRO Chairman Dr. S. Somanath was LIVE on Instagram recently">
+                  ISRO Chairman Dr. S. Somanath was LIVE on Instagram recently.</span>
+              </p>
+            </div>
+            <!-- <div class="carousel-item">
+              <p class="flashContent">
+                  <b class="flash">
+                      Flash News:
+                  </b>
+               <a class="light" href="INSAT-3DS_imaging_Earth.html">
+                INSAT-3DS begins imaging the Earth. </a>
+              </p>
+          </div> -->
+
+
+
+            <!--27.7.23 end-->
+            <div class="carousel-item ">
+              <p class="flashContent">
+                <b class="flash">
+                  Flash News:
+                </b>
+                <span class="out" style="cursor:pointer; color:white; text-decoration: none;"
+                  onclick="outsideAlert('https://www.instagram.com/isro.dos/ ')" rel="noopener noreferrer"
+                  title="Instagram (ISRO/DOS)">
+                  Our Instagram <span class="instagram"><i class="bx bxl-instagram"></i> isro.dos </span>
+                </span>
+              </p>
+            </div>
+          </div>
+          <br>
+
+          <div class="carousel-indicators mb-0 mt-0">
+
+            <button title="PSLV C60/SPADEX Mission" aria-current="true" aria-label="Slide 1" data-bs-slide-to="0" class="active"
+            data-bs-target="#myCarousel_f" type="button">
+          </button>
+          <button title="PSLV C60/SPADEX Mission -Registration" aria-current="true" aria-label="Slide 2" data-bs-slide-to="1" class="active"
+          data-bs-target="#myCarousel_f" type="button">
+        </button>
+            <button title="START 2025 - Space Science and Technology Awareness Training Programme" aria-current="true" aria-label="Slide 3" data-bs-slide-to="2" class="active"
+            data-bs-target="#myCarousel_f" type="button">
+          </button>
+            <button title="respond basket" aria-current="true" aria-label="Slide 4" data-bs-slide-to="3" class="active"
+            data-bs-target="#myCarousel_f" type="button">
+          </button>
+            <button title="pslv59" aria-current="true" aria-label="Slide 5" data-bs-slide-to="4" class="active"
+            data-bs-target="#myCarousel_f" type="button">
+          </button>
+            <!-- <button title="pslv59" aria-current="true" aria-label="Slide 2" data-bs-slide-to="1" class="active"
+            data-bs-target="#myCarousel_f" type="button">
+          </button> -->
+            <button title="GLEX 2025" aria-current="true" aria-label="Slide 6" data-bs-slide-to="5" class="active"
+              data-bs-target="#myCarousel_f" type="button">
+            </button>
+            <button title="Mission SSLV-D3" aria-current="true" aria-label="Slide 7" data-bs-slide-to="6" class="active"
+              data-bs-target="#myCarousel_f" type="button">
+            </button>
+
+            <button title="ISRO completes its RLV technology demonstrations through LEX trio" aria-current="true"
+              aria-label="Slide 8" data-bs-slide-to="7" class="active" data-bs-target="#myCarousel_f" type="button">
+            </button>
+
+
+            <button title=" ISRO Chairman Dr. S. Somanath was LIVE on Instagram recently" aria-current="true"
+              aria-label="Slide 9" data-bs-slide-to="8" class="active" data-bs-target="#myCarousel_f" type="button">
+            </button>
+
+
+            <button title="Our Instagram" aria-current="true" aria-label="Slide 10" data-bs-slide-to="9" class="active"
+              data-bs-target="#myCarousel_f" type="button">
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- end flash news -->
+
+  <!-- ======= Hero Section ======= -->
+  <div class="d-flex align-items-center" id="hero">
+
+
+    <video autoplay="" class="back_video" controls="" loop="" muted="" oncanplay=""
+      src="/media_isro/video/rlv_lex_03.webm" style="width:100%;">
+      <track kind="captions" label="English" src="/media_isro/vtt/RLV_LEX03.vtt" srclang="en">
+    </video>
+    <!-- <video autoplay="" class="back_video" controls="" loop="" muted="" oncanplay=""
+      src="/media_isro/video/Home_video/Ch3_lander_descent_rover_rollout.webm" style="width:100%;">
+      <track kind="captions" label="English" src="/media_isro/vtt/Ch3_lander_descent_rover_rollout.vtt" srclang="en">
+    </video> -->
+  </div>
+  <!-- End Hero -->
+  <main id="main">
+    <!-- 6.10.2022 -->
+    <div id="SidebarRight">
+      <nav id="sidenavRight">
+        <div>
+          <a href="https://www.isro.gov.in/NSPD2024/" title="NSPD 2024" rel="noopener noreferrer" id="askanexpert">
+            <img alt="National Space Science  Symposium" class="sidemenuimgcss" data-aos="fade-up"
+              src="/media_isro/image/BhuvanAndExpert/new/nspd_logo.png" title="National Space Day - 2024">
+            NSpD-2024
+          </a>
+          <!-- <a href="#" class="out" onclick="outsideAlert('https://www.instagram.com/p/C91eGp-Bt-X/')"
+            rel="noopener noreferrer" id="askanexpert" title="Dr. S. Somanath, Chairman, ISRO  will be LIVE on Instagram on August 3, 2024, at 6 PM IST">
+            <img alt="Chairman LIVE" class="sidemenuimgcss" data-aos="fade-up"
+              src="/media_isro/image/BhuvanAndExpert/new/chairman_instagram_sidemenu.png">
+            LIVE
+          </a> -->
+
+          <!-- <a href="#" class="out" onclick="outsideAlert('https://nsss2024.unigoa.ac.in/')" 
+        rel="noopener noreferrer" id="bhuvan" >
+            <img alt="National Space Science  Symposium" class="sidemenuimgcss" data-aos="fade-up"
+              src="/media_isro/image/BhuvanAndExpert/new/nsss2024.png" title="National Space Science  Symposium
+              26 FEB 2024 - 01 MAR 2024, GOA">
+            NSSS 2024
+          </a>  -->
+
+          <a href="contact.html" id="vedas" title="Contact">
+            <img alt="Contact us" class="sidemenuimgcss" data-aos="fade-up"
+              src="/media_isro/image/BhuvanAndExpert/new/contact.jpg.webp" title="Contact us">
+            Contact us
+          </a>
+          <a href="https://www.isro.gov.in/ISROAPP/login.jsp" id="ndem" title="Ask an Expert">
+            <img alt="Ask an Expert" class="sidemenuimgcss" data-aos="fade-up"
+              src="/media_isro/image/BhuvanAndExpert/new/askanexpert.png.webp">
+            Ask an Expert
+          </a>
+          <a href="https://www.isro.gov.in/ISROAPP/fFBFNC" id="mosdac" title="feedback">
+            <img alt="feedback" class="sidemenuimgcss" data-aos="fade-up"
+              src="/media_isro/image/BhuvanAndExpert/new/feedback.jpg.webp">
+            Feedback
+          </a>
+
+        </div>
+      </nav>
+    </div>
+    <div class="features">
+      <!-- Start of popup and down divs-->
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+            <div class="features-post">
+              <div class="features-content" id="pressrelease" onmouseout="popdownDiv();"
+                onmouseover="popupDiv('storyId');" tabindex="0">
+                <div class="content-show">
+                  <h4 class="storyText" onmouseover="popupDiv('storyId');">
+                    Press Release
+                  </h4>
+                </div>
+                <div class="storyId" id="storyId" style="display: none;">
+                  <p class="popuptext" id="storyPopuPtext1" onmouseout="popdownDiv();">
+                    Press Release
+                  </p>
+                  <div class="scroll-to-section">
+                    <a href="Press.html" onmouseout="popdownDiv();"
+                      title="Click Here for More Information regarding Press Release">
+                      More Info.
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+            <div class="features-post">
+              <div class="features-content" id="careercontent" onmouseout="podownDivCareer();"
+                onmouseover="popupDivCareer('storyId');" tabindex="0">
+                <div class="content-show">
+                  <h4 class="storyText" onmouseover="popupDivCareer('storyId');">
+                    Careers
+                  </h4>
+                </div>
+                <div class="careerClass" id="careerId" style="display: none;">
+                  <p class="popuptext" id="storyPopuPtext2" onmouseout="podownDivCareer();">
+                    Come, become a part of the workforce of the nation's prestigious space agency-be it in the technical
+                    or administrative areas? ISRO has several openings for recruitment to a plethora of posts. All
+                    recruitment notices will be published here.
+                  </p>
+                  <div class="scroll-to-section">
+                    <a href="Careers.html" onmouseout="podownDivCareer();"
+                      title="Click Here for More Information regarding careers">
+                      More Info.
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+            <div class="features-post">
+              <div class="features-content" id="studentscontent" onmouseout="podownDivStudents();"
+                onmouseover="popupDivStudents('storyId');" tabindex="0">
+                <div class="content-show">
+                  <h4 class="storyText" onmouseover="popupDivStudents('storyId');">
+                    Students
+                  </h4>
+                </div>
+                <div class="studentClass" id="studentId" style="display: none;">
+                  <p class="popuptext" id="storyPopuPtext3" onmouseout="podownDivStudents();">
+                    ISRO committed to encourage students in creating awareness in the space technology and
+                    applications.They are the future hopes for applying technologies for social and economic up-liftment
+                    of the country.Several programmes are conceived for students to engage in STEM activities and
+                    learning.
+                  </p>
+                  <div class="scroll-to-section">
+                    <a href="Students.html" onmouseout="podownDivStudents();"
+                      title="Click Here for More Information regarding students">
+                      More Info.
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+            <div class="features-post">
+              <div class="features-content" id="tendercontent" onmouseout="podownDivTender();"
+                onmouseover="popupDivTender('storyId');" tabindex="0">
+                <div class="content-show">
+                  <h4 class="storyText" onmouseover="popupDivTender('storyId');">
+                    Tenders
+                  </h4>
+                </div>
+                <div class="tenderClass" id="tenderId" style="display: none;">
+                  <p class="popuptext" id="storyPopuPtext4" onmouseout="podownDivTender();">
+                    This is a portal that carries all notifications related to tenders, corrigendums etc.for procurement
+                    related activities of all ISRO Centres spread across the country. It will be a frequently updated
+                    portal.
+                  </p>
+                  <div class="scroll-to-section">
+                    <a href="Tenders.html" onmouseout="podownDivTender();"
+                      title="Click Here for More Information regarding Tenders">
+                      More Info.
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <section class="specials pb-1">
+      <div class="" data-aos="fade-up" style="margin-left: 2%; margin-right: 2%;">
+        <div class="row mb-3">
+          <div class="col-md-6 themed-grid-col">
+            <div class="section-title mb-2">
+              <p style="color: #03234a;">
+                Latest News
+              </p>
+            </div>
+            <div class="accordion" id="accordionExample" style="height: 200px;overflow: auto;">
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading209">
+                  <button aria-controls="collapse209" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse209" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>Memorandum of Understanding between Indian Navy and NARL
+                   </button>
+                </h4>
+                <div aria-labelledby="heading209" class="accordion-collapse collapse show"
+                  data-bs-parent="#accordionExample" id="collapse209">
+                  <div class="accordion-body">
+                    <a href="MOU_IndianNavy_NARL.html" style="color: #020aff;" target="_blank" title="SpaDeX: India's Pioneering Space Docking Demonstrator for Future Space Exploration">
+                      Memorandum of Understanding between Indian Navy and NARL
+                     </a>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading208">
+                  <button aria-controls="collapse208" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse208" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>POEM-4 in PSLV-C60 / SpaDeX Mission
+                  </button>
+                </h4>
+                <div aria-labelledby="heading208" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse208">
+                  <div class="accordion-body">
+                    <a href="POEM_4_Payloads_spadex.html" style="color: #020aff;" target="_blank" title="SpaDeX: India's Pioneering Space Docking Demonstrator for Future Space Exploration">
+                      POEM-4 in PSLV-C60 / SpaDeX Mission
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading207">
+                  <button aria-controls="collapse207" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse207" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Hon'ble Union Home Minister Highlights Space Technology as Catalyst for NE Region's Development at 12th NESAC
+        Society Meeting in Agartala
+                  </button>
+                </h4>
+                <div aria-labelledby="heading207" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse207">
+                  <div class="accordion-body">
+                    <a href="12th_NESAC_Society_Meeting_in_Agartala.html" style="color: #020aff;" target="_blank" title="SpaDeX: India's Pioneering Space Docking Demonstrator for Future Space Exploration">
+                      Hon'ble Union Home Minister Highlights Space Technology as Catalyst for NE Region's Development at 12th NESAC
+        Society Meeting in Agartala
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading206">
+                  <button aria-controls="collapse206" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse206" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>SpaDeX: India's Pioneering Space Docking Demonstrator for Future Space Exploration
+                  </button>
+                </h4>
+                <div aria-labelledby="heading206" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse206">
+                  <div class="accordion-body">
+                    <a href="mission_SpaDeX.html" style="color: #020aff;" target="_blank" title="SpaDeX: India's Pioneering Space Docking Demonstrator for Future Space Exploration">
+                      SpaDeX: India's Pioneering Space Docking Demonstrator for Future Space Exploration
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading205">
+                  <button aria-controls="collapse205" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse205" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    ISRO-ESA Agreement for Cooperation on Activities related to Astronaut Training, Mission Implementation and Research Experiments
+                  </button>
+                </h4>
+                <div aria-labelledby="heading205" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse205">
+                  <div class="accordion-body">
+                    <a href="ISRO_ESA_Agreement_for_Cooperation.html" style="color: #020aff;" target="_blank" title="ISRO-ESA Agreement for Cooperation on Activities related to Astronaut Training, Mission Implementation and Research Experiments">
+                      ISRO-ESA Agreement for Cooperation on Activities related to Astronaut Training, Mission Implementation and Research Experiments
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading204">
+                  <button aria-controls="collapse204" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse204" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Gaganyaan-G1 Launch campaign commences: Human Rated LVM3 assembly starts at SDSC for the first un-crewed flight 
+ 
+                  </button>
+                </h4>
+                <div aria-labelledby="heading204" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse204">
+                  <div class="accordion-body">
+                    <a href="LVM3_first_uncrewed_flight_Gaganyaan.html"
+                      style="color: #020aff;" target="_blank" title=" Gaganyaan-G1 Launch campaign commences: Human Rated LVM3 assembly starts at SDSC for the first un-crewed flight 
+">
+Gaganyaan-G1 Launch campaign commences: Human Rated LVM3 assembly starts at SDSC for the first un-crewed flight 
+
+
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading203">
+                  <button aria-controls="collapse203" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse203" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Charting the Shadows of Time:Sundial at VSSC Space Museum  
+                  </button>
+                </h4>
+                <div aria-labelledby="heading203" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse203">
+                  <div class="accordion-body">
+                    <a href="SundialVSSCSpaceMuseum.html"
+                      style="color: #020aff;" target="_blank" title="Sundial at VSSC Space Museum">
+                      Charting the Shadows of Time:Sundial at VSSC Space Museum
+
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading202">
+                  <button aria-controls="collapse202" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse202" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    ISRO & IN-SPACe organize Workshop on Spin-Off Space Technologies for  Automotive Industry 
+                  </button>
+                </h4>
+                <div aria-labelledby="heading202" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse202">
+                  <div class="accordion-body">
+                    <a href="ISRO_IN-SPACe_organize_Workshop_Spin-Off_Space_Technologies_for_Automotive_Industry.html"
+                      style="color: #020aff;" target="_blank" title="ISRO & IN-SPACe organize Workshop on Spin-Off Space Technologies for  Automotive Industry">
+                      ISRO & IN-SPACe organize Workshop on Spin-Off Space Technologies for  Automotive Industry 
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading201">
+                  <button aria-controls="collapse201" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse201" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Preparing for inflight re-ignition, full nozzle cryogenic engine (CE20) undergoes test outside vacuum chamber. 
+                  </button>
+                </h4>
+                <div aria-labelledby="heading201" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse201">
+                  <div class="accordion-body">
+                    <a href="CE20_test_outside_vacuum_chamber.html"
+                      style="color: #020aff;" target="_blank" title="Preparing for inflight re-ignition, full nozzle cryogenic engine (CE20) undergoes test outside vacuum chamber. ">
+                      Preparing for inflight re-ignition, full nozzle cryogenic engine (CE20) undergoes test outside vacuum chamber. 
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading200">
+                  <button aria-controls="collapse200" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse200" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Unlocking the Mysteries of the Sun: Aditya-L1's Observations of a Coronal Mass Ejection
+                  </button>
+                </h4>
+                <div aria-labelledby="heading200" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse200">
+                  <div class="accordion-body">
+                    <a href="Aditya_L1_Observations_Coronal_Mass_Ejection.html"
+                      style="color: #020aff;" target="_blank" title="Unlocking the Mysteries of the Sun: Aditya-L1's Observations of a Coronal Mass Ejection">
+                      Unlocking the Mysteries of the Sun: Aditya-L1's Observations of a Coronal Mass Ejection
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading199">
+                  <button aria-controls="collapse199" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse199" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Indian Navy and ISRO gear up for Welldeck Recovery for Gaganyaan  
+
+                  </button>
+                </h4>
+                <div aria-labelledby="heading199" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse199">
+                  <div class="accordion-body">
+                    <a href="Indian_Navy_ISRO_WelldeckRecovery_Gaganyaan.html"
+                      style="color: #020aff;" target="_blank" title="Indian Navy and ISRO gear up for Welldeck Recovery for Gaganyaan">
+                      Indian Navy and ISRO gear up for Welldeck Recovery for Gaganyaan  
+ 
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading198">
+                  <button aria-controls="collapse198" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse198" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    The PSLV-C59/PROBA-3 Mission has successfully achieved its launch objectives, deploying ESA’s satellites into their designated orbit with precision. 
+
+                  </button>
+                </h4>
+                <div aria-labelledby="heading198" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse198">
+                  <div class="accordion-body">
+                    <a href="PSLV_C59_PROBA-3_Mission.html"
+                      style="color: #020aff;" target="_blank" title="The PSLV-C59/PROBA-3 Mission has successfully achieved its launch objectives, deploying ESA’s satellites into their designated orbit with precision">
+                      The PSLV-C59/PROBA-3 Mission has successfully achieved its launch objectives, deploying ESA’s satellites into their designated orbit with precision. 
+ 
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading197">
+                  <button aria-controls="collapse197" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse197" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    ISRO - ESA Signs Technical Implementing Plan for Network Operation Support for Gaganyaan Missions
+
+                  </button>
+                </h4>
+                <div aria-labelledby="heading197" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse197">
+                  <div class="accordion-body">
+                    <a href="ISRO_ESA_GaganyaanMissions.html"
+                      style="color: #020aff;" target="_blank" title="ISRO - ESA Signs Technical Implementing Plan for Network Operation Support for Gaganyaan Missions
+">
+                      ISRO - ESA Signs Technical Implementing Plan for Network Operation Support for Gaganyaan Missions
+ 
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading196">
+                  <button aria-controls="collapse196" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse196" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Satellite Observation of Deep Depression over Southwest Bay of Bengal 
+                  </button>
+                </h4>
+                <div aria-labelledby="heading196" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse196">
+                  <div class="accordion-body">
+                    <a href="Satellite_Observation_Deep_Depression_over_Southwest_Bay_of_Bengal.html"
+                      style="color: #020aff;" target="_blank" title="Satellite Observation of Deep Depression over Southwest Bay of Bengal ">
+                      Satellite Observation of Deep Depression over Southwest Bay of Bengal 
+                    </a>
+                  </div>
+                </div>
+              </div>       
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading195">
+                  <button aria-controls="collapse195" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse195" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Member of Parliament and Commissioner “Start-ups and Digital Innovation Hubs” at the German Ministry of Economic Affairs and Climate Action, met Chairman, ISRO/ Secretary DOS
+                  </button>
+                </h4>
+                <div aria-labelledby="heading195" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse195">
+                  <div class="accordion-body">
+                    <a href="German_Ministry_met_Chairman_ISRO.html"
+                      style="color: #020aff;" target="_blank" title="Member of Parliament and Commissioner “Start-ups and Digital Innovation Hubs” at the German Ministry of Economic Affairs and Climate Action, met Chairman, ISRO/ Secretary DOS ">
+                      Member of Parliament and Commissioner “Start-ups and Digital Innovation Hubs” at the German Ministry of Economic Affairs and Climate Action, met Chairman, ISRO/ Secretary DOS 
+                    </a>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading194">
+                  <button aria-controls="collapse194" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse194" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    ISRO & ASA sign Implementing Arrangement for Gaganyaan 
+                  </button>
+                </h4>
+                <div aria-labelledby="heading194" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse194">
+                  <div class="accordion-body">
+                    <a href="ISRO_ASA_sign_Gaganyaan.html"
+                      style="color: #020aff;" target="_blank" title="ISRO & ASA sign Implementing Arrangement for Gaganyaan ">
+                      ISRO & ASA sign Implementing Arrangement for Gaganyaan 
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading193">
+                  <button aria-controls="collapse193" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse193" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Mexican Ambassador met Chairman, ISRO / Secretary, DOS
+                  </button>
+                </h4>
+                <div aria-labelledby="heading193" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse193">
+                  <div class="accordion-body">
+                    <a href="Mexican_Ambassador_met_Chairman_ISRO.html"
+                      style="color: #020aff;" target="_blank" title="Mexican Ambassador met Chairman, ISRO / Secretary, DOS">
+                      Mexican Ambassador met Chairman, ISRO / Secretary, DOS
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading192">
+                  <button aria-controls="collapse192" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse192" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Department of Biotechnology (DBT), Ministry of Science and Technology and Indian Space Research
+                    Organisation (ISRO), Department of Space (DoS) signs Framework Memorandum of Understanding on
+                    Cooperation in Space Biotechnology
+
+                  </button>
+                </h4>
+                <div aria-labelledby="heading192" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionExample" id="collapse192">
+                  <div class="accordion-body">
+                    <a href="DBT_ISRO_signs_Framework_Memorandum_of_Understanding_on_Cooperation_in_Space_Biotechnology.html"
+                      style="color: #020aff;" target="_blank" title="Department of Biotechnology (DBT), Ministry of Science and Technology and Indian Space Research Organisation (ISRO), Department of Space (DoS) signs Framework Memorandum of Understanding on Cooperation in Space Biotechnology
+                      ">
+                      Department of Biotechnology (DBT), Ministry of Science and Technology and Indian Space Research
+                      Organisation (ISRO), Department of Space (DoS) signs Framework Memorandum of Understanding on
+                      Cooperation in Space Biotechnology
+
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading191">
+                  <button aria-controls="collapse191" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse191" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    ISRO Satellites track Cyclone DANA
+
+                  </button>
+                </h4>
+                <div aria-labelledby="heading191" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse191">
+                  <div class="accordion-body">
+                    <a href="ISROSatellitestrackCycloneDANA.html" style="color: #020aff;" target="_blank" title="ISRO Satellites track Cyclone DANA
+                      ">
+                      ISRO Satellites track Cyclone DANA
+
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading190">
+                  <button aria-controls="collapse190" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse190" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    India's AstroSat and NASA's Space Observatories Capture Dramatic Eruptions from Stellar Wreckage
+                    around a Massive Black Hole
+                  </button>
+                </h4>
+                <div aria-labelledby="heading190" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse190">
+                  <div class="accordion-body">
+                    <a href="Indias_AstroSat_and_NASAs_Space_Observatories_Capture_Dramatic_Eruptions.html"
+                      style="color: #020aff;" target="_blank"
+                      title=" India's AstroSat  and NASA's Space Observatories Capture Dramatic Eruptions from Stellar Wreckage around a Massive Black Hole">
+                      India's AstroSat and NASA's Space Observatories Capture Dramatic Eruptions from Stellar Wreckage
+                      around a Massive Black Hole
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading189">
+                  <button aria-controls="collapse189" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse189" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    The upper stage of PSLV-37 which launched a record number of 104 satellites re-enters the Earth's
+                    atmosphere on 6 Oct 2024
+                  </button>
+                </h4>
+                <div aria-labelledby="heading189" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse189">
+                  <div class="accordion-body">
+                    <a href="Upper_stage_PSLV37_launched_104satellites.html" style="color: #020aff;" target="_blank"
+                      title="The upper stage of PSLV-37 which launched a record number of 104 satellites re-enters the Earth's atmosphere on 6 Oct 2024">
+
+                      The upper stage of PSLV-37 which launched a record number of 104 satellites re-enters the Earth's
+                      atmosphere on 6 Oct 2024
+
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading188">
+                  <button aria-controls="collapse188" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse188" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Union Cabinet Approves India's Mission to Venus, and Sample Return from the Moon
+                  </button>
+                </h4>
+                <div aria-labelledby="heading188" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse188">
+                  <div class="accordion-body">
+                    <a href="UnionCabinetApprovesIndiasMission.html" style="color: #020aff;" target="_blank"
+                      title="  Union Cabinet Approves India's Mission to Venus, and Sample Return from the Moon">
+
+                      Union Cabinet Approves India's Mission to Venus, and Sample Return from the Moon
+
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading187">
+                  <button aria-controls="collapse187" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse187" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Discovery of a buried crater on the moon! chandrayaan-3 vikram lander and pragyan rover landed
+                    within it
+                  </button>
+                </h4>
+                <div aria-labelledby="heading187" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse187">
+                  <div class="accordion-body">
+                    <a href="ch3_Discovery_of_a_buried_crater_on_the_moon.html" style="color: #020aff;" target="_blank"
+                      title="Discovery of a buried crater on the moon! chandrayaan-3 vikram lander and pragyan rover landed within it">
+
+                      Discovery of a buried crater on the moon! chandrayaan-3 vikram lander and pragyan rover landed
+                      within it
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading186">
+                  <button aria-controls="collapse186" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse186" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Swedish State Secretary for Foreign Trade, met Chairman, ISRO/ Secretary DOS
+                  </button>
+                </h4>
+                <div aria-labelledby="heading186" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse186">
+                  <div class="accordion-body">
+                    <a href="Swedish_State_Secretary_met_Chairman_ISRO.html" style="color: #020aff;" target="_blank"
+                      title="  Swedish State Secretary for Foreign Trade, met Chairman, ISRO/ Secretary DOS
+                      ">
+
+                      Swedish State Secretary for Foreign Trade, met Chairman, ISRO/ Secretary DOS
+
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading185">
+                  <button aria-controls="collapse185" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse185" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Bengaluru Space Expo (BSX) 2024
+                  </button>
+                </h4>
+                <div aria-labelledby="heading185" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse185">
+                  <div class="accordion-body">
+                    <a href="Bengaluru_space_expo2024.html" style="color: #020aff;" target="_blank"
+                      title="Bengaluru Space Expo (BSX) 2024">
+
+                      Bengaluru Space Expo (BSX) 2024
+
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading184">
+                  <button aria-controls="collapse184" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse184" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    EOIR Payload on EOS-08 Begins Operations, Offering excellent Thermal Imaging Capabilities
+                  </button>
+                </h4>
+                <div aria-labelledby="heading184" class="accordion-collapse collapse "
+                  data-bs-parent="#accordionExample" id="collapse184">
+                  <div class="accordion-body">
+                    <a href="EOIR_Payload.html" style="color: #020aff;" target="_blank"
+                      title="EOIR Payload on EOS-08 Begins Operations, Offering excellent Thermal Imaging Capabilities">
+
+                      EOIR Payload on EOS-08 Begins Operations, Offering excellent Thermal Imaging Capabilities
+
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading183">
+                  <button aria-controls="collapse183" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse183" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+
+                    ISRO and IIG Sign MOU for Scientific Collaboration
+
+                  </button>
+                </h4>
+                <div aria-labelledby="heading183" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse183">
+                  <div class="accordion-body">
+                    <a href="ISRO_IIG_SignMOU_Scientific_Collaboration.html" style="color: #020aff;" target="_blank"
+                      title="ISRO and IIG Sign MOU for Scientific Collaboration">
+
+                      ISRO and IIG Sign MOU for Scientific Collaboration
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading182">
+                  <button aria-controls="collapse182" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse182" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    GNSS-Reflectometry: A Novel Remote Sensing Initiated by EOS-08
+                  </button>
+                </h4>
+                <div aria-labelledby="heading182" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse182">
+                  <div class="accordion-body">
+                    <a href="GNSS_Reflectometry.html" style="color: #020aff;" target="_blank"
+                      title="GNSS-Reflectometry: A Novel Remote Sensing Initiated by EOS-08">
+                      GNSS-Reflectometry: A Novel Remote Sensing Initiated by EOS-08
+
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading181">
+                  <button aria-controls="collapse181" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse181" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Release of Chandrayaan-3 science data to the Scientific Community
+                  </button>
+                </h4>
+                <div aria-labelledby="heading181" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse181">
+                  <div class="accordion-body">
+                    <a href="Release_of_Chandrayaan-3_science_data_to_the_Scientific_Community.html"
+                      style="color: #020aff;" target="_blank"
+                      title="Release of Chandrayaan-3 science data to the Scientific Community">
+                      Release of Chandrayaan-3 science data to the Scientific Community
+
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading180">
+                  <button aria-controls="collapse180" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse180" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    APXS on Pragyan Rover of Chandrayaan-3 made the First Elemental Abundance Measurements
+                  </button>
+                </h4>
+                <div aria-labelledby="heading180" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse180">
+                  <div class="accordion-body">
+                    <a href="/media_isro/pdf/APXS_CH3.pdf" style="color: #020aff;" target="_blank"
+                      title="APXS on Pragyan Rover of Chandrayaan-3 made the First Elemental Abundance Measurements">
+                      APXS on Pragyan Rover of Chandrayaan-3 made the First Elemental Abundance Measurements
+                      <img src="/media_isro/image/icon/pdficons.gif" alt="pdf icon">
+                      <span
+                        style="background: #dad8d4; color: #000; font-size: 12px; padding: 3px; border-radius: 5px;">
+                        466 KB </span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading179">
+                  <button aria-controls="collapse179" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse179" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    SSLV-D3 Mission: The third developmental flight of SSLV is successful. The SSLV-D3 placed EOS-08
+                    precisely into the orbit
+                  </button>
+                </h4>
+                <div aria-labelledby="heading179" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse179">
+                  <div class="accordion-body">
+                    <a href="Mission_SSLV_D3.html" style="color: #020aff;"
+                      title="SSLV-D3 Mission: The third developmental flight of SSLV is successful. The SSLV-D3 placed EOS-08 precisely into the orbit">
+                      SSLV-D3 Mission: The third developmental flight of SSLV is successful. The SSLV-D3 placed EOS-08
+                      precisely into the orbit
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading178">
+                  <button aria-controls="collapse178" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse178" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    EOS-08 Mission Overview
+
+                  </button>
+                </h4>
+                <div aria-labelledby="heading178" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse178">
+                  <div class="accordion-body">
+                    <a href="EOS-08_Mission.html" style="color: #020aff;"
+                      title="ISRO conducts flight experiment of Air Breathing Propulsion System">
+                      EOS-08 Mission Overview
+
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading177">
+                  <button aria-controls="collapse177" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse177" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    ISRO conducts flight experiment of Air Breathing Propulsion System
+
+                  </button>
+                </h4>
+                <div aria-labelledby="heading175" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse177">
+                  <div class="accordion-body">
+                    <a href="ISROflightexperimentAirBreathingPropulsionSystem.html" style="color: #020aff;" title="ISRO conducts flight experiment of Air Breathing Propulsion System
+                      ">
+                      ISRO conducts flight experiment of Air Breathing Propulsion System
+
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading176">
+                  <button aria-controls="collapse176" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse176" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Launching of Bhartiya Antariksh Hackathon-2024
+                  </button>
+                </h4>
+                <div aria-labelledby="heading175" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse176">
+                  <div class="accordion-body">
+                    <a href="LaunchingBhartiyaAntarikshHackathon2024.html" style="color: #020aff;"
+                      title="Launching of Bhartiya Antariksh Hackathon-2024">
+                      Launching of Bhartiya Antariksh Hackathon-2024
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading175">
+                  <button aria-controls="collapse175" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse175" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Aditya-L1 Mission: Completion of First Halo Orbit
+                  </button>
+                </h4>
+                <div aria-labelledby="heading175" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse175">
+                  <div class="accordion-body">
+                    <a href="Aditya_L1_Mission_Completion_of_First_Halo_Orbit.html" style="color: #020aff;"
+                      title="Aditya-L1 Mission: Completion of First Halo Orbit">
+                      Aditya-L1 Mission: Completion of First Halo Orbit
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+
+
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading174">
+                  <button aria-controls="collapse174" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse174" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Thailand Ambassador met ISRO Chairman
+                  </button>
+                </h4>
+                <div aria-labelledby="heading174" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse174">
+                  <div class="accordion-body">
+                    <a href="Thailand_Ambassador_met_ISRO_Chairman.html" style="color: #020aff;"
+                      title="Thailand Ambassador met ISRO Chairman">
+                      Thailand Ambassador met ISRO Chairman
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading173">
+                  <button aria-controls="collapse173" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse173" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Shri Suresh Gopi, Hon'ble Minister of State, meets Shri S. Somanath, Chairman, ISRO
+                  </button>
+                </h4>
+                <div aria-labelledby="heading173" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse173">
+                  <div class="accordion-body">
+                    <a href="Minister_of_State_meets_Chairman_ISRO.html" style="color: #020aff;"
+                      title="Shri Suresh Gopi, Hon'ble Minister of State, meets Shri S. Somanath, Chairman, ISRO">
+                      Shri Suresh Gopi, Hon'ble Minister of State, meets Shri S. Somanath, Chairman, ISRO
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading172">
+                  <button aria-controls="collapse172" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse172" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    LVM3 M3 Upper Stage Re-enters Atmosphere: Mission Debrief
+                  </button>
+                </h4>
+                <div aria-labelledby="heading172" class="accordion-collapse collapse "
+                  data-bs-parent="#accordionExample" id="collapse172">
+                  <div class="accordion-body">
+                    <a href="LVM3_M3UpperStageRe_entersAtmosphere.html" style="color: #020aff;"
+                      title="LVM3 M3 Upper Stage Re-enters Atmosphere: Mission Debrief">
+                      LVM3 M3 Upper Stage Re-enters Atmosphere: Mission Debrief
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading171">
+                  <button aria-controls="collapse171" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse171" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    GSAT-N2: Enhancing India's Broadband Infrastructure
+                  </button>
+                </h4>
+                <div aria-labelledby="heading171" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse171">
+                  <div class="accordion-body">
+                    <a href="GSATN2EnhancingIndiaBroadbandInfrastructure.html" style="color: #020aff;"
+                      title="GSAT-N2: Enhancing India's Broadband Infrastructure">
+                      GSAT-N2: Enhancing India's Broadband Infrastructure
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+            
+                     
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading120">
+                  <button aria-controls="collapse120" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse120" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Announcement of Opportunity (AO) for Capacity Building in Space Based Disaster Management Support
+                  </button>
+                </h4>
+                <div aria-labelledby="heading120" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse120">
+                  <div class="accordion-body">
+                    <a href="AO_proposals_202324.html" style="color: #020aff;"
+                      title=" Announcement of Opportunity (AO) for Capacity Building in Space Based Disaster Management Support">
+                      Announcement of Opportunity (AO) for Capacity Building in Space Based Disaster Management Support
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading117">
+                  <button aria-controls="collapse117" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse117" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    ISRO Robotics Challenge-URSC 2024 (IRoC-U2024): Inviting Indian students to join Space exploration
+
+                  </button>
+                </h4>
+                <div aria-labelledby="heading117" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse117">
+                  <div class="accordion-body">
+                    <a href="ISRO_Robotics_Challenge_URSC2024.html" style="color: #020aff;"
+                      title="ISRO Robotics Challenge-URSC 2024 (IRoC-U2024): Inviting Indian students to join Space exploration">
+                      ISRO Robotics Challenge-URSC 2024 (IRoC-U2024): Inviting Indian students to join Space exploration
+                    </a>
+                  </div>
+                </div>
+              </div>
+           
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading102">
+                  <button aria-controls="collapse102" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse102" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Current Space Situation around the Moon - An assessment
+                  </button>
+                </h4>
+                <div aria-labelledby="heading102" class="accordion-collapse collapse "
+                  data-bs-parent="#accordionExample" id="collapse102">
+                  <div class="accordion-body">
+                    <a href="Current_Space_Situation_around_Moon_Assessment.html" style="color: #020aff;"
+                      title="Current Space Situation around the Moon - An assessment ">
+                      Current Space Situation around the Moon - An assessment
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+
+              <!--23 May-->
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading86">
+                  <button aria-controls="collapse86" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse86" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Amateur astronomers in ISRO capture rare celestial event with minimal equipment
+                  </button>
+                </h4>
+                <div aria-labelledby="heading86" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse86">
+                  <div class="accordion-body">
+                    <a href="ISRO_capture_rare_celestial_event.html" style="color: #020aff;"
+                      title=" Amateur astronomers in ISRO capture rare celestial event with minimal equipment ">
+                      Amateur astronomers in ISRO capture rare celestial event with minimal equipment
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading48">
+                  <button aria-controls="collapse48" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse48" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Announcement of Opportunity (AO Cycle 13) soliciting proposals for AstroSat observatory time
+                  </button>
+                </h4>
+                <div aria-labelledby="heading48" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse48">
+                  <div class="accordion-body">
+                    <a href="AO13.html" style="color: #020aff;"
+                      title="Click Here for Announcement of Opportunity (AO Cycle 13) soliciting proposals for AstroSat observatory time">
+                      Announcement of Opportunity (AO Cycle 13) soliciting proposals for AstroSat observatory time
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h4 class="accordion-header" id="heading37">
+                  <button aria-controls="collapse37" aria-expanded="true" class="accordion-button"
+                    data-bs-target="#collapse37" data-bs-toggle="collapse" type="button">
+                    <span class="open-blink">
+                    </span>
+                    Rozgar Mela: 330+ Appointment Orders issued till December 2022
+                  </button>
+                </h4>
+                <div aria-labelledby="heading37" class="accordion-collapse collapse" data-bs-parent="#accordionExample"
+                  id="collapse37">
+                  <div class="accordion-body">
+                    <a href="rozgar-mela-appointment-orders-issued-dec-2022.html" style="color: #020aff;"
+                      title="Click Here for Rozgar Mela: 330+ Appointment Orders issued till December 2022">
+                      Rozgar Mela:
+                      330+ Appointment Orders issued till December 2022
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+          <div class="col-md-6 themed-grid-col">
+            <div class="section-title mb-2">
+              <p style="color: #03234a;">
+                <a title="Click here to view archived Highlights" href="Archive_highlights.html"> Highlights</a>
+              </p>
+            </div>
+            <div class="carousel slide" data-bs-ride="carousel" id="myCarousel">
+              <div class="carousel-indicators">
+
+                
+                <button title="RESPOND BASKET 2024" aria-current="true" aria-label="Slide 1" class="active" data-bs-slide-to="0"
+                  data-bs-target="#myCarousel" type="button">
+                </button>
+                <button title="IRoC-U 2025" aria-current="true" aria-label="Slide 2" class="active" data-bs-slide-to="1"
+                  data-bs-target="#myCarousel" type="button">
+                </button>
+                <button title=" GLEX 2025" aria-current="true" aria-label="Slide 3" class="active" data-bs-slide-to="2"
+                  data-bs-target="#myCarousel" type="button">
+                </button>
+                <button title=" Megascience" aria-current="true" aria-label="Slide 4" class="active"
+                  data-bs-slide-to="3" data-bs-target="#myCarousel" type="button">
+                </button>
+                <button title=" National Space Day Quiz" aria-current="true" aria-label="Slide 5" class="active"
+                  data-bs-slide-to="4" data-bs-target="#myCarousel" type="button">
+                </button>
+                <button title="Indian National Space Promotion and Authorization Centre " aria-current="true"
+                  aria-label="Slide 6" class="active" data-bs-slide-to="5" data-bs-target="#myCarousel" type="button">
+                </button>
+                <button title="Bhuvan Panchayat and NDEM" aria-current="true" aria-label="Slide 7" class="active"
+                  data-bs-slide-to="6" data-bs-target="#myCarousel" type="button">
+                </button>
+                <button title="International Science Workshop" aria-current="true" aria-label="Slide 8" class="active"
+                  data-bs-slide-to="7" data-bs-target="#myCarousel" type="button">
+                </button>
+                <button title="NSPD2024" aria-current="true" aria-label="Slide 9" class="active" data-bs-slide-to="8"
+                  data-bs-target="#myCarousel" type="button">
+                </button>
+                <!-- <button title="Live" aria-current="true" aria-label="Slide 5" class="active" data-bs-slide-to="4"
+                data-bs-target="#myCarousel" type="button">
+              </button> -->
+                <button title="National Space Day - 2024" aria-current="true" aria-label="Slide 10" class="active"
+                  data-bs-slide-to="9" data-bs-target="#myCarousel" type="button">
+                </button>
+
+
+
+
+                <!-- <button title="ISRO Chairman Shri Somanath S. will be LIVE on  Instagram" aria-current="true" aria-label="Slide 4" class="active"
+                data-bs-slide-to="3" data-bs-target="#myCarousel" type="button">
+              </button> -->
+
+                <!-- <button
+                  title="Precise Air Quality Monitoring with OCM-3 Aerosol Optical Depth Product from EOS-6 Satellite"
+                  aria-current="true" aria-label="Slide 6" class="active" data-bs-slide-to="5"
+                  data-bs-target="#myCarousel" type="button">
+                </button>
+                -->
+              </div>
+              <div class="carousel-inner">
+                <div class="carousel-item  active">
+                  <a href="RESPOND_BASKET_2024.html" title="RESPOND BASKET 2024" target="_blank">
+                    <img alt="RESPOND BASKET 2024" class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Highlights/Respond_Basket_2024_Highlights.png"
+                      srcset="/media_isro/image/index/Highlights/Respond_Basket_2024_Highlights.png 1024w, /media_isro/image/index/Highlights/Respond_Basket_2024_Highlights.png 640w, /media_isro/image/index/Highlights/Respond_Basket_2024_Highlights.png 320w"
+                      title="RESPOND BASKET 2024">
+                  </a>
+                </div>
+
+                <div class="carousel-item">
+                  <!-- <a href="#" title="IRoC-U 2025" target="_blank"> -->
+                    <img alt="IRoC-U 2025" class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Highlights/IRoC-U_2025high.png"
+                      srcset="/media_isro/image/index/Highlights/IRoC-U_2025high.png 1024w, /media_isro/image/index/Highlights/IRoC-U_2025high.png 640w, /media_isro/image/index/Highlights/IRoC-U_2025high.png 320w"
+                      title="IRoC-U 2025">
+                  <!-- </a> -->
+                </div>
+                <div class="carousel-item">
+                  <a href="/media_isro/pdf/Highlights/GLEX_2025_Brochure.pdf" title="GLEX 2025" target="_blank">
+                    <img alt="GLEX 2025" class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Highlights/glex2025high.png"
+                      srcset="/media_isro/image/index/Highlights/glex2025high.png 1024w, /media_isro/image/index/Highlights/glex2025high.png 640w, /media_isro/image/index/Highlights/glex2025high.png 320w"
+                      title="GLEX 2025">
+                  </a>
+                </div>
+                <div class="carousel-item">
+                  <a href="/media_isro/pdf/Highlights/MSV2035_Astronomy_Astrophysics.pdf" title="Mega Science"
+                    target="_blank">
+                    <img alt="Mega Science" class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Highlights/megascience.png"
+                      srcset="/media_isro/image/index/Highlights/megascience.png 1024w, /media_isro/image/index/Highlights/megascience.png 640w, /media_isro/image/index/Highlights/megascience.png 320w"
+                      title=" Mega Science">
+                  </a>
+                </div>
+
+                <div class="carousel-item">
+                  <a style="cursor:pointer;"
+                    onclick="outsideAlert('https://quiz.mygov.in/quiz/national-space-day-quiz/')"
+                    rel="noopener noreferrer" title=" National Space Day Quiz" href="#">
+                    <img alt=" National Space Day Quiz" class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Highlights/spaceday130824_high.png"
+                      srcset="/media_isro/image/index/Highlights/spaceday130824_high.png 1024w, /media_isro/image/index/Highlights/spaceday130824_high.png 640w, /media_isro/image/index/Highlights/spaceday130824_high.png 320w"
+                      title="National Space Day Quiz">
+                  </a>
+                </div>
+
+                <div class="carousel-item">
+                  <a style="cursor:pointer;"
+                    onclick="outsideAlert('https://www.inspace.gov.in/inspace?id=inspace_ao_indian_orbital_resource_p')"
+                    rel="noopener noreferrer" title="Indian National Space Promotion and Authorization Centre" href="#">
+                    <img alt="Indian National Space Promotion and Authorization Centre"
+                      class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Highlights/inspace_high010824.png"
+                      srcset="/media_isro/image/index/Highlights/inspace_high010824.png 1024w, /media_isro/image/index/Highlights/inspace_high010824.png 640w, /media_isro/image/index/Highlights/inspace_high010824.png 320w"
+                      title="Indian National Space Promotion and Authorization Centre">
+                  </a>
+                </div>
+
+                <div class="carousel-item">
+                  <a href="Bhuvan_Panchayat_NDEM_videos.html" title="Videos of Bhuvan Panchayat and NDEM "
+                    target="_blank">
+
+                    <img alt="Videos of Bhuvan Panchayat and NDEM " class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Highlights/geoportals300724_high.png"
+                      srcset="/media_isro/image/index/Highlights/geoportals300724_high.png 1024w, /media_isro/image/index/Highlights/geoportals300724_high.png 640w, /media_isro/image/index/Highlights/geoportals300724_high.png 320w"
+                      title="Videos of Bhuvan Panchayat and NDEM ">
+                  </a>
+                </div>
+
+                <div class="carousel-item">
+                  <a href="/media_isro/pdf/Highlights/Flyer_Trishna_Workshop300724.pdf"
+                    title="International Science Workshop" target="_blank">
+
+                    <img alt="International Science Workshop" class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Highlights/interscienceworkshop.png"
+                      srcset="/media_isro/image/index/Highlights/interscienceworkshop.png 1024w, /media_isro/image/index/Highlights/interscienceworkshop.png 640w, /media_isro/image/index/Highlights/interscienceworkshop.png 320w"
+                      title="International Science Workshop">
+                  </a>
+                </div>
+                <div class="carousel-item">
+                  <a href="https://www.isro.gov.in/NSPD2024/" title="NSPD2024" target="_blank">
+
+                    <img alt="India celebrates its maiden National Space Day" class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Highlights/NSPD290724_high.png"
+                      srcset="/media_isro/image/index/Highlights/NSPD290724_high.png 1024w, /media_isro/image/index/Highlights/NSPD290724_high.png 640w, /media_isro/image/index/Highlights/NSPD290724_high.png 320w"
+                      title="India celebrates its maiden National Space Day">
+                  </a>
+                </div>
+
+                <!-- <div class="carousel-item ">
+                  <a style="cursor:pointer;" onclick="outsideAlert('https://www.instagram.com/p/C91eGp-Bt-X/')"
+                    rel="noopener noreferrer" title="Dr. S. Somanath, Chairman, ISRO  will be LIVE on Instagram on August 3, 2024, at 6 PM IST" href="#">
+                    <img alt="Dr. S. Somanath, Chairman, ISRO  will be LIVE on Instagram on August 3, 2024, at 6 PM IST" class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Highlights/live_high2507.png"
+                      srcset="/media_isro/image/index/Highlights/live_high2507.png 1024w, /media_isro/image/index/Highlights/live_high2507.png 640w, /media_isro/image/index/Highlights/live_high2507.png 320w"
+                      title="Dr. S. Somanath, Chairman, ISRO  will be LIVE on Instagram on August 3, 2024, at 6 PM IST">
+                  </a>
+                </div> -->
+
+
+                <div class="carousel-item">
+                  <a style="cursor:pointer;"
+                    onclick="outsideAlert('https://cie.iiit.ac.in/ai-for-space-amp-geospatial-innovation/')"
+                    rel="noopener noreferrer" title="National Space Day - 2024" href="#">
+                    <img alt="National Space Day - 2024" class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Highlights/nspd_high.jpg"
+                      srcset="/media_isro/image/index/Highlights/nspd_high.jpg 1024w, /media_isro/image/index/Highlights/nspd_high.jpg 640w, /media_isro/image/index/Highlights/nspd_high.jpg 320w"
+                      title="National Space Day - 2024">
+                  </a>
+                </div>
+
+                <!-- <div class="carousel-item ">
+                  <a href="PraVaHa.html" title="PraVaHa: ISRO develops CFD software for aerodynamic design and analysis" target="_blank">
+                  
+                    <img alt="PraVaHa: ISRO develops CFD software for aerodynamic design and analysis" class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Highlights/PraVaHa.png"
+                      srcset="/media_isro/image/index/Highlights/PraVaHa.png 1024w, /media_isro/image/index/Highlights/PraVaHa.png 640w, /media_isro/image/index/Highlights/PraVaHa.png 320w"
+                      title="PraVaHa: ISRO develops CFD software for aerodynamic design and analysis">
+                  </a>
+                </div> -->
+                <!-- <div class="carousel-item">
+                  <a href="Recent_studies_suggest_more_ice_Moon.html" title="Recent studies suggest more ice on the Moon within exploitable depths" target="_blank">
+                  
+                    <img alt="Recent studies suggest more ice on the Moon within exploitable depths" class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Highlights/Recent_studies_suggest_more_iceontheMoonwithinexploitabledepths.jpg"
+                      srcset="/media_isro/image/index/Highlights/Recent_studies_suggest_more_iceontheMoonwithinexploitabledepths.jpg 1024w, /media_isro/image/index/Highlights/Recent_studies_suggest_more_iceontheMoonwithinexploitabledepths.jpg 640w, /media_isro/image/index/Highlights/Recent_studies_suggest_more_iceontheMoonwithinexploitabledepths.jpg 320w"
+                      title="Recent studies suggest more ice on the Moon within exploitable depths">
+                  </a>
+                </div> -->
+                <!-- <div class="carousel-item">
+                  <a href="Indian_Space_Situational_Assessment_Report_ISSAR2023.html" title="Indian Space Situational Assessment Report (ISSAR) for 2023" target="_blank">
+                  
+                    <img alt="Indian Space Situational Assessment Report (ISSAR) for 2023" class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Highlights/issarhigh290424.jpg"
+                      srcset="/media_isro/image/index/Highlights/issarhigh290424.jpg 1024w, /media_isro/image/index/Highlights/issarhigh290424.jpg 640w, /media_isro/image/index/Highlights/issarhigh290424.jpg 320w"
+                      title="Indian Space Situational Assessment Report (ISSAR) for 2023">
+                  </a>
+                </div> -->
+
+                <!-- <div class="carousel-item ">
+                  <a style="cursor:pointer;" onclick="outsideAlert('https://www.instagram.com/p/C6JBRwHBe9a/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==')"
+                    rel="noopener noreferrer"
+                    title="ISRO Chairman Shri Somanath S will be LIVE on  Instagram Saturday, April 27, 2024 from 6 pm to 7 pm IST" href="#">
+                    <img alt="ISRO Chairman Shri Somanath S will be LIVE on  Instagram Saturday, April 27, 2024 from 6 pm to 7 pm IST"
+                      class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Highlights/Chairman_instagram_27042024.png"
+                      srcset="/media_isro/image/index/Highlights/Chairman_instagram_27042024.png 1024w, /media_isro/image/index/Highlights/Chairman_instagram_27042024.png 640w, /media_isro/image/index/Highlights/Chairman_instagram_27042024.png 320w"
+                      title="ISRO Chairman Shri Somanath S will be LIVE on  Instagram Saturday, April 27, 2024 from 6 pm to 7 pm IST">
+                  </a>
+                </div> -->
+                <!-- <div class="carousel-item">
+                  <a href="Satellite_Insights_Expanding_Glacial_Lakes_Indian_Himalayas.html"
+                    title="Satellite Insights: Expanding Glacial Lakes in the Indian Himalayas"
+                    target="_blank">
+
+                    <img
+                      alt="Satellite Insights: Expanding Glacial Lakes in the Indian Himalayas"
+                      class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Highlights/himalayas_high224.jpg"
+                      srcset="/media_isro/image/index/Highlights/himalayas_high224.jpg 1024w, /media_isro/image/index/Highlights/himalayas_high224.jpg 640w, /media_isro/image/index/Highlights/himalayas_high224.jpg 320w"
+                      title="Satellite Insights: Expanding Glacial Lakes in the Indian Himalayas ">
+                  </a>
+                </div>
+             
+                 -->
+
+
+
+
+
+
+              </div>
+              <button class="carousel-control-prev" data-bs-slide="prev" data-bs-target="#myCarousel" type="button">
+                <span aria-hidden="true" class="carousel-control-prev-icon" title="Previous">
+                </span>
+                <span class="visually-hidden">
+                  Previous
+                </span>
+              </button>
+              <button class="carousel-control-next" data-bs-slide="next" data-bs-target="#myCarousel" type="button">
+                <span aria-hidden="true" class="carousel-control-next-icon" title="Next">
+                </span>
+                <span class="visually-hidden">
+                  Next
+                </span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--second div ends-->
+    </section>
+    <!-- End Specials Section -->
+    <!-- Start Horizontal menu -->
+    <section class="why-us" id="why-us" style="padding: 10px 0;">
+      <div class="container aos-init aos-animate" data-aos="fade-up" style="max-width: 100% !important;">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xl-12">
+          <div class="row">
+            <div class="section-title mb-2">
+              <p style="color: #fff;">
+                ISRO Portals
+              </p>
+            </div>
+            <div class="gallerycolumn1" style="cursor: pointer;">
+              <!-- <a href="igrasp_portal.html"> -->
+              <a tabindex="0" onclick="outsideAlert('https://igrasp.isro.gov.in')"
+                onkeypress="outsideAlert1(event, 'https://igrasp.isro.gov.in')">
+                <div class="hormenu-box hormenutooltip" data-aos="zoom-in" data-aos-delay="100">
+                  <h4 class="text-center">
+                    <img alt="ISRO's Grant In Aid Space Research Programmes" class="testimonial-img"
+                      src="/media_isro/image/hormenu/igrasp.png.webp">
+                  </h4>
+
+                  <h4>
+                    I-Grasp
+                  </h4>
+                  <span class="tooltiptext">
+                    ISRO's Grant In Aid Space Research Programmes
+                  </span>
+                </div>
+              </a>
+            </div>
+            <div class="gallerycolumn1" style="cursor: pointer;">
+              <a tabindex="0" onclick="outsideAlert('https://jigyasa.iirs.gov.in')"
+                onkeypress="outsideAlert1(event, 'https://jigyasa.iirs.gov.in')">
+                <div class="hormenu-box hormenutooltip" data-aos="zoom-in" data-aos-delay="100">
+                  <h4 class="text-center">
+                    <img alt="ISRO Science Technology Engineering &amp; Mathematics Programme" class="testimonial-img"
+                      src="/media_isro/image/hormenu/stem.png.webp">
+                  </h4>
+
+                  <h4>
+                    ISRO STEM
+                  </h4>
+                  <span class="tooltiptext">
+                    ISRO Science Technology Engineering &amp; Mathematics Programme
+                  </span>
+                </div>
+              </a>
+            </div>
+            <div class="gallerycolumn1">
+              <a href="Virtual_Space_Museum.html">
+                <div class="hormenu-box hormenutooltip" data-aos="zoom-in" data-aos-delay="100">
+                  <h4 class="text-center">
+                    <img alt="ISRO Virtual Space Museum" class="testimonial-img"
+                      src="/media_isro/image/hormenu/spark.png.webp">
+                  </h4>
+
+                  <h4>
+                    SPARK
+                  </h4>
+                  <span class="tooltiptext">
+                    ISRO Virtual Space Museum
+                  </span>
+                </div>
+              </a>
+            </div>
+            <div class="gallerycolumn1">
+              <a href="MOSDAC.html">
+                <div class="hormenu-box hormenutooltip" data-aos="zoom-in" data-aos-delay="100">
+                  <h4 class="text-center">
+                    <img alt="Meteorological &amp; Oceanographic Satellite Data Archival Centre" class="testimonial-img"
+                      src="/media_isro/image/hormenu/mosdac.jpg.webp">
+                  </h4>
+
+                  <h4>
+                    MOSDAC
+                  </h4>
+                  <span class="tooltiptext">
+                    Meteorological &amp; Oceanographic Satellite Data Archival Centre
+                  </span>
+                </div>
+              </a>
+            </div>
+            <div class="gallerycolumn1" style="cursor: pointer;">
+              <a tabindex="0" onclick="outsideAlert('https://www.issdc.gov.in')"
+                onkeypress="outsideAlert1(event, 'https://www.issdc.gov.in')">
+                <div class="hormenu-box hormenutooltip" data-aos="zoom-in" data-aos-delay="100">
+                  <h4 class="text-center">
+                    <img alt="Indian Space Science Data Center" class="testimonial-img"
+                      src="/media_isro/image/hormenu/issdc.png.webp">
+                  </h4>
+
+                  <h4>
+                    ISSDC
+                  </h4>
+                  <span class="tooltiptext">
+                    Indian Space Science Data Center
+                  </span>
+                </div>
+              </a>
+            </div>
+            <div class="gallerycolumn1" style="cursor: pointer;">
+              <a tabindex="0" onclick="outsideAlert('https://bhoonidhi.nrsc.gov.in/bhoonidhi/home.html')"
+                onkeypress="outsideAlert1(event, 'https://bhoonidhi.nrsc.gov.in/bhoonidhi/home.html')">
+                <div class="hormenu-box hormenutooltip" data-aos="zoom-in" data-aos-delay="100">
+                  <h4 class="text-center">
+                    <img alt="Earth Observation Data Hub" class="testimonial-img"
+                      src="/media_isro/image/hormenu/bhoonidhi.png.webp">
+                  </h4>
+
+                  <h4>
+                    Bhoonidhi
+                  </h4>
+                  <span class="tooltiptext">
+                    Earth Observation Data Hub
+                  </span>
+                </div>
+              </a>
+            </div>
+            <div class="gallerycolumn1" style="cursor: pointer;">
+              <a tabindex="0" onclick="outsideAlert('https://bhuvan.nrsc.gov.in')"
+                onkeypress="outsideAlert1(event, 'https://bhuvan.nrsc.gov.in')">
+                <div class="hormenu-box hormenutooltip" data-aos="zoom-in" data-aos-delay="100">
+                  <h4 class="text-center">
+                    <img alt="Indian Geo-Platform of ISRO" class="testimonial-img"
+                      src="/media_isro/image/hormenu/bhuvan.png.webp">
+                  </h4>
+
+                  <h4>
+                    Bhuvan
+                  </h4>
+                  <span class="tooltiptext">
+                    Indian Geo-Platform of ISRO
+                  </span>
+                </div>
+              </a>
+            </div>
+            <div class="gallerycolumn1" style="cursor: pointer;">
+              <a tabindex="0" onclick="outsideAlert('https://vedas.sac.gov.in')"
+                onkeypress="outsideAlert1(event, 'https://vedas.sac.gov.in')">
+                <div class="hormenu-box hormenutooltip" data-aos="zoom-in" data-aos-delay="100">
+                  <h4 class="text-center">
+                    <img alt="Visualisation of Earth Observation Data and Archival System" class="testimonial-img"
+                      src="/media_isro/image/hormenu/vedas.png.webp">
+                  </h4>
+
+                  <h4>
+                    VEDAS
+                  </h4>
+                  <span class="tooltiptext">
+                    Visualisation of Earth Observation Data and Archival System
+                  </span>
+                </div>
+              </a>
+            </div>
+            <div class="gallerycolumn1" style="cursor: pointer;">
+              <a tabindex="0" onclick="outsideAlert('https://ndem.nrsc.gov.in')"
+                onkeypress="outsideAlert1(event, 'https://ndem.nrsc.gov.in')">
+                <div class="hormenu-box hormenutooltip" data-aos="zoom-in" data-aos-delay="100">
+                  <h4 class="text-center">
+                    <img alt="National Database for Emergency Management" class="testimonial-img"
+                      src="/media_isro/image/hormenu/isro1.png.webp">
+                  </h4>
+
+                  <h4>
+                    NDEM
+                  </h4>
+                  <span class="tooltiptext">
+                    National Database for Emergency Management
+                  </span>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Horizontal menu -->
+    <section class="chefs pt-2" id="chefs">
+      <div class="container-fluid aos-init aos-animate" data-aos="fade-up">
+        <div class="section-title mb-2">
+          <p style="color: #03234a;">
+            <a href="recent_updates.html" title="Recent Updates">
+              Recent Updates
+            </a>
+          </p>
+        </div>
+        <div class="mission-box w-100 px-1" id="missionBoxId">
+          <div class="row">
+
+            <div class="col-lg-3 col-md-6">
+              <div class="member aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
+                <img alt="PSLV-C59/PROBA-3 Mission " class="img-fluid w-100 h-auto mx-auto"
+                  sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                  src="/media_isro/image/index/Recent/pslv_c59_rec.png"
+                  srcset="/media_isro/image/index/Recent/pslv_c59_rec.png 1024w, /media_isro/image/index/Recent/pslv_c59_rec.png  640w, /media_isro/image/index/Recent/pslv_c59_rec.png  320w"
+                  style="border: 1px solid #a4a4a4;" title="PSLV-C59/PROBA-3 Mission  ">
+                <div class="member-info">
+                  <div class="member-info-content">
+                    <h4>
+                      PSLV-C59/PROBA-3 Mission
+
+                    </h4>
+                    <div>
+                      <p style="color: #e4ff00;">
+                       Launched on: December 05, 2024
+                        
+                      </p>
+                    </div>
+                  </div>
+                  <div class="social">
+                    <a href="PSLV_C59_PROBA-3_Mission.html" title="Click Here to read more about PSLV-C59/PROBA-3 Mission">
+                      Read More
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+              <div class="member aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
+                <img alt="SSLV-D3/EOS-08 Mission " class="img-fluid w-100 h-auto mx-auto"
+                  sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                  src="/media_isro/image/index/Recent/sslvd3_rec160824.png"
+                  srcset="/media_isro/image/index/Recent/sslvd3_rec160824.png 1024w, /media_isro/image/index/Recent/sslvd3_rec160824.png  640w, /media_isro/image/index/Recent/sslvd3_rec160824.png  320w"
+                  style="border: 1px solid #a4a4a4;" title="SSLV-D3/EOS-08 Mission  ">
+                <div class="member-info">
+                  <div class="member-info-content">
+                    <h4>
+                      SSLV-D3/EOS-08 Mission
+
+                    </h4>
+                    <div>
+                      <p style="color: #e4ff00;">
+                        Launched on: August 16, 2024
+                      </p>
+                    </div>
+                  </div>
+                  <div class="social">
+                    <a href="Mission_SSLV_D3.html" title="Click Here to read more about SSLV-D3/EOS-08 Mission">
+                      Read More
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+              <div class="member aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
+                <img alt="GSLV-F14/INSAT-3DS MISSION" class="img-fluid w-100 h-auto mx-auto"
+                  sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                  src="/media_isro/image/index/Recent/gslvf14ind.jpg"
+                  srcset="/media_isro/image/index/Recent/gslvf14ind.jpg  1024w, /media_isro/image/index/Recent/gslvf14ind.jpg  640w, /media_isro/image/index/Recent/gslvf14ind.jpg  320w"
+                  style="border: 1px solid #a4a4a4;" title="GSLV-F14/INSAT-3DS MISSION ">
+                <div class="member-info">
+                  <div class="member-info-content">
+                    <h4>
+                      GSLV-F14/INSAT-3DS MISSION
+
+                    </h4>
+                    <div>
+                      <p style="color: #e4ff00;">
+                        Launched on: February 17, 2024
+                      </p>
+                    </div>
+                  </div>
+                  <div class="social">
+                    <a href="GSLV-F14_INSAT-3DS_mission.html"
+                      title="Click Here to read more about GSLV-F14/INSAT-3DS MISSION  ">
+                      Read More
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- 29.08.2023 starts here-->
+            <div class="col-lg-3 col-md-6">
+              <div class="member aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
+                <img alt="PSLV-C58 / XPoSat Mission" class="img-fluid w-100 h-auto mx-auto"
+                  sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                  src="/media_isro/image/index/Recent/pslvc58xposat.jpg.webp "
+                  srcset="/media_isro/image/index/Recent/pslvc58xposat.jpg.webp  1024w, /media_isro/image/index/Recent/pslvc58xposat.jpg.webp  640w, /media_isro/image/index/Recent/pslvc58xposat.jpg.webp  320w"
+                  style="border: 1px solid #a4a4a4;" title="PSLV-C58 / XPoSat Mission">
+                <div class="member-info">
+                  <div class="member-info-content">
+                    <h4>
+                      PSLV-C58/XPoSat Mission
+                    </h4>
+                    <div>
+                      <p style="color: #e4ff00;">
+                        Launched on: January 01, 2024
+                      </p>
+                    </div>
+                  </div>
+                  <div class="social">
+                    <a href="PSLV_C58_XPoSat_Mission.html" title="Click Here to read more about XPoSa">
+                      Read More
+                    </a>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+
+            <!-- 29.08.2023 ends here-->
+
+
+            <!-- End of 10.07.2023 -->
+
+            <!-- <div class="col-lg-3 col-md-6">
+                  <div class="member aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
+                    <img alt=" Flight Demonstration of Si-Gr anode based High Energy Density Li-ion Cells" class="img-fluid w-100 h-auto mx-auto"
+                      sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                      src="/media_isro/image/index/Recent/siliconcellrec.jpg"
+                      srcset="/media_isro/image/index/Recent/siliconcellrec.jpg  1024w, /media_isro/image/index/Recent/siliconcellrec.jpg  640w, /media_isro/image/index/Recent/siliconcellrec.jpg  320w"
+                      style="border: 1px solid #a4a4a4;" title="Flight Demonstration of Si-Gr anode based High Energy Density Li-ion Cells">
+                    <div class="member-info">
+                      <div class="member-info-content">
+                        <h4>
+                          Flight Demonstration of Si-Gr anode based High Energy Density Li-ion Cells 
+                         
+                        </h4>
+              
+                      </div>
+                      <div class="social">
+                        <a href="FlightDemonstration_Si-Gr_anode.html"
+                          title="Click Here to read more about Flight Demonstration of Si-Gr anode based High Energy Density Li-ion Cells">
+                          Read More
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            -->
+
+            <!-- 20.03.2023 -->
+            <!-- <div class="col-lg-3 col-md-6">
+        <div class="member aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
+         <img alt="LVM3-M3 / OneWeb India-2 Mission" class="img-fluid w-100 h-auto mx-auto" sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw" src="/media_isro/image/index/LVM3M3/p1_land.jpg.webp" srcset="/media_isro/image/index/LVM3M3/p1_land.jpg.webp 1024w, /media_isro/image/index/LVM3M3/p1_land.jpg.webp 640w, /media_isro/image/index/LVM3M3/p1_land.jpg.webp 320w" style="border: 1px solid #a4a4a4;" title="LVM3-M3 / OneWeb India-2 Mission" >
+         <div class="member-info">
+          <div class="member-info-content">
+           <h4>
+            LVM3-M3 / OneWeb India-2 Mission
+           </h4>
+           <div>
+            <p style="color: #e4ff00;">
+             Launched on: March 26, 2023
+            </p>
+           </div>
+          </div>
+          <div class="social">
+           <a href="LVM3M3MissionLandingPage.html" title="Click Here to read more about LVM3-M3 / OneWeb India-2 Mission">
+            Read More
+           </a>
+          </div>
+         </div>
+        </div>
+       </div> -->
+
+
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- starts isro centre div -->
+    <section class="specials pt-2">
+      <div class="container-fluid aos-init aos-animate" data-aos="fade-up">
+        <div class="slider-box w-100 px-1">
+          <div class="row" data-aos="fade-up" data-aos-delay="100">
+            <div class="row mb-3">
+              <div class="col-md-3 themed-grid-col">
+                <div class="pb-2 w-100" id="autoBodyDiv">
+                  <div class="section-title">
+                    <h6 id="autotextId">
+                      <a class="text-white" href="autonomous.html" title="Autonomous bodies">
+                        Autonomous bodies
+                      </a>
+                    </h6>
+                    <br>
+                    <div class="autoBodyCss" id="autoBodyId1">
+                      <hr class="hrStyle">
+                      <a href="PRL.html" title="PRL">
+                        <img alt="PRL" class="img-fluid w-100 h-auto mx-auto" id="img1"
+                          src="/media_isro/image/centreimages/bodies/PRL-new_small.jpg.webp" title="PRL">
+                        <p style="text-align: center; font-size: 15px;">
+                          <span style="color: #ffff99; font-weight: normal;">
+                            PRL
+                          </span>
+                        </p>
+                      </a>
+                    </div>
+                    <div class="autoBodyCss" id="autoBodyId2">
+                      <hr class="hrStyle">
+                      <a href="NARL.html" rel="noopener noreferrer" target="_blank" title="NARL">
+                        <img alt="NARL" class="img-fluid w-100 h-auto mx-auto"
+                          src="/media_isro/image/centreimages/bodies/narl_small.jpg.webp" title="NARL">
+                        <br>
+                        <p style="text-align: center; font-size: 15px;">
+                          <span style="color: #ffff99;">
+                            <span style="color: #ffff99; font-weight: normal;">
+                              NARL
+                            </span>
+                          </span>
+                        </p>
+                      </a>
+                    </div>
+                    <div class="autoBodyCss" id="autoBodyId3">
+                      <hr class="hrStyle">
+                      <a href="NESAC.html" rel="noopener noreferrer" target="_blank" title="NESAC">
+                        <img alt="NESAC" class="img-fluid w-100 h-auto mx-auto"
+                          src="/media_isro/image/centreimages/bodies/nesac_small.png.webp" title="NESAC">
+                        <br>
+                        <p style="text-align: center; font-size: 15px;">
+                          <span style="color: #ffff99;">
+                            <span style="color: #ffff99; font-weight: normal;">
+                              NESAC
+                            </span>
+                          </span>
+                        </p>
+                      </a>
+                    </div>
+                    <div class="autoBodyCss" id="autoBodyId4">
+                      <hr class="hrStyle">
+                      <a href="iist.html" rel="noopener noreferrer" target="_blank" title="IIST">
+                        <img alt="IIST" class="img-fluid w-100 h-auto mx-auto"
+                          src="/media_isro/image/centreimages/bodies/iist_small.png.webp" title="IIST">
+                        <br>
+                        <p style="text-align: center; font-size: 15px;">
+                          <span style="color: #ffff99;">
+                            <span style="color: #ffff99; font-weight: normal;">
+                              IIST
+                            </span>
+                          </span>
+                        </p>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-1 themed-grid-col">
+              </div>
+              <div class="col-md-4 themed-grid-col">
+                <div class="section-title">
+                  <p id="centreTextid" style="color: #03234a;">
+                    <a class="text-white" href="isro_centre.html" title="ISRO Centres &amp; Units">
+                      ISRO
+                      Centres &amp; Units
+                    </a>
+                  </p>
+                </div>
+                <br>
+                <div class="slideshow1" id="slideshowId" style="margin-left:27%; margin-right:4%; ;">
+                  <div class="content1">
+                    <div class="slider-content1">
+                      <figure tabindex="0" class="shadow1">
+                        <a href="DOS&amp;ISROHQ.html" title="ISRO HQ">
+                          <img alt="ISRO HQ" src="/media_isro/image/centreimages/isroHQs.jpg.webp">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1 shadow">
+                        <a href="VSSC.html" title="VSSC">
+                          <img alt="VSSC" src="/media_isro/image/centreimages/VSSC.jpg.webp" title="VSSC">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1 shadow">
+                        <a href="LPSC.html" title="LPSC">
+                          <img alt="LPSC" src="/media_isro/image/centreimages/LPSC.jpg.webp" title="LPSC">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1shadow">
+                        <a href="SDSC.html" title="SDSC">
+                          <img alt="SHAR" src="/media_isro/image/centreimages/SHAR.jpg.webp" title="SHAR">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1 shadow">
+                        <a href="URSC.html" title="URSC">
+                          <img alt="URSC" src="/media_isro/image/centreimages/ursc.jpg.webp" title="URSC">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1 shadow">
+                        <a href="SAC.html" title="SAC">
+                          <img alt="SAC" src="/media_isro/image/centreimages/sac.jpg.webp" title="SAC">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1 shadow">
+                        <a href="NRSC.html" title="NRSC">
+                          <img alt="NRSC" src="/media_isro/image/centreimages/nrsc.jpg.webp" title="NRSC">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1 shadow">
+                        <a href="HSFC.html" title="HSFC">
+                          <img alt="HSFC" src="/media_isro/image/centreimages/HSFC.png.webp" title="HSFC">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1 shadow">
+                        <a href="IPRC.html" title="IPRC">
+                          <img alt="IPRC" src="/media_isro/image/centreimages/IPRC.jpg.webp" title="IPRC">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1 shadow">
+                        <a href="IISU.html" title="IISU">
+                          <img alt="IISU" src="/media_isro/image/centreimages/IISU.jpg.webp" title="IISU">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1 shadow">
+                        <a href="ISTRAC.html" title="ISTRAC">
+                          <img alt="ISTRAC" src="/media_isro/image/centreimages/istrac.jpg.webp" title="ISTRAC">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1 shadow">
+                        <a href="MCF.html" title="MCF">
+                          <img alt="MCF" src="/media_isro/image/centreimages/MCF.png.webp" title="MCF">
+                        </a>
+                      </figure>
+                      <!-- <figure tabindex="0" class="co-1 shadow">
+                        <a href="DECU.html" title="Decu">
+                          <img alt="Decu" src="/media_isro/image/centreimages/decu_img.png.webp" title="Decu">
+                        </a>
+                      </figure> -->
+                      <figure tabindex="0" class="co-1 shadow">
+                        <a href="LEOS.html" title="LEOS">
+                          <img alt="LEOS" src="/media_isro/image/centreimages/LEOS.png.webp" title="LEOS">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1 shadow">
+                        <a href="IIRS.html" title="IIRS">
+                          <img alt="IIRS" src="/media_isro/image/centreimages/IIRS.png.webp" title="IIRS">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1 shadow">
+                        <a href="DOS&amp;ISROHQ.html" title="Headquarters">
+                          <img alt="Headquarters" src="/media_isro/image/centreimages/isroHQs.jpg.webp"
+                            title="Headquarters">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1 shadow">
+                        <a href="VSSC.html" title="VSSC">
+                          <img alt="VSSC" src="/media_isro/image/centreimages/VSSC.jpg.webp" title="VSSC">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1 shadow">
+                        <a href="LPSC.html" title="LPSC">
+                          <img alt="LPSC" src="/media_isro/image/centreimages/LPSC.jpg.webp" title="LPSC">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1shadow">
+                        <a href="SDSC.html" title="SDSC">
+                          <img alt="SHAR" src="/media_isro/image/centreimages/SHAR.jpg.webp" title="SHAR">
+                        </a>
+                      </figure>
+                      <figure tabindex="0" class="co-1 shadow">
+                        <a href="URSC.html" title="URSC">
+                          <img alt="URSC" src="/media_isro/image/centreimages/ursc.jpg.webp" title="URSC">
+                        </a>
+                      </figure>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-1 themed-grid-col">
+              </div>
+              <div class="col-md-3 themed-grid-col">
+                <div id="inspaceDiv" style="background: transparent; padding-bottom: 2px;  width: 100%;">
+                  <div class="section-title">
+                    <p id="captionTextid" style="color: #03234a;">
+                      <a class="text-white" href="IN-SPACe.html" title="IN-Space">
+                        IN-SPACe
+                      </a>
+                      <a class="text-white" href="NSIL.html" title="NSIL">
+                        NSIL
+                      </a>
+                    </p>
+                  </div>
+                  <br>
+                  <div class="autoBodyCss" id="autoBodyId5">
+                    <hr class="hrStyle">
+                    <a href="IN-SPACe.html" title="IN-SPACe">
+                      <img alt="INSPACE" class="img-fluid w-100 h-auto mx-auto"
+                        sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                        src="/media_isro/image/centreimages/bodies/inspace_large.jpg.webp"
+                        srcset="/media_isro/image/centreimages/bodies/inspace_large.jpg.webp 1024w, /media_isro/image/centreimages/bodies/inspace_medium.jpg.webp 640w, /media_isro/image/centreimages/bodies/inspace_small.jpg.webp 320w"
+                        title="IN-SPACe">
+                      <br>
+                      <p style="text-align: center; font-size: 15px;">
+                        <span style="color: #ffff99;">
+                          <span style="color: #ffff99; font-weight: normal;">
+                            IN-SPACe
+                          </span>
+                        </span>
+                      </p>
+                    </a>
+                  </div>
+                  <div class="autoBodyCss" id="autoBodyId6">
+                    <hr class="hrStyle">
+                    <a href="NSIL.html" title="NSIL">
+                      <img alt="NSIL" class="img-fluid w-100 h-auto mx-auto"
+                        sizes="(max-width:480px) 320px,(max-width:800px) 640px,(max-width:1080px) 1024px,100vw"
+                        src="/media_isro/image/centreimages/bodies/NSIL_large.jpg.webp"
+                        srcset="/media_isro/image/centreimages/bodies/NSIL_large.jpg.webp 1024w, /media_isro/image/centreimages/bodies/NSIL_medium.jpg.webp 640w, /media_isro/image/centreimages/bodies/NSIL_small.jpg.webp 320w"
+                        title="NSIL">
+                      <p style="text-align: center; font-size: 15px;">
+                        <span style="color: #ffff99;">
+                          <span style="color: #ffff99; font-weight: normal;">
+                            NSIL
+                          </span>
+                        </span>
+                      </p>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--second div for satellites-->
+    </section>
+    <!-- End Specials Section -->
+    <!-- End Specials Section -->
+    <!-- end isro centre div -->
+    <!-- end isro centre div -->
+    <!-- ======= Menu Section ======= -->
+    <section class="menu section-bg" id="menu">
+      <div class="container" data-aos="fade-up" id="usefullink">
+        <div class="section-title">
+          <!-- <h2>Menu</h2> -->
+          <h6 style="color: #fff;" title="Read More about Useful Links">
+            Useful Links
+          </h6>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-12 d-flex justify-content-center">
+            <ul id="menu-flters">
+              <li tabindex="0" data-filter=".filter-relatedLinks" title="Read More about Related Links">
+                Related Links
+              </li>
+              <li tabindex="0" data-filter=".filter-otherportal" title="Read More about Government Portal">
+                Government Portal
+              </li>
+              <li tabindex="0" class="filter-active" data-filter=".filter-reports" title="Read More about Reports">
+                Reports
+              </li>
+              <li tabindex="0" data-filter=".filter-Policies" title="Read More about Policies">
+                Policies
+              </li>
+              <li tabindex="0" data-filter="" title="All Useful links">
+                All
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- Start of usefullink -->
+        <div class="row menu-container" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-3 menu-item filter-relatedLinks">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_2.jpg.webp">
+            <div class="menu-content">
+              <a href="isro_centre.html" title="Read More about ISRO Centres">
+                ISRO Centres
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-relatedLinks">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_2.jpg.webp">
+            <div class="menu-content">
+              <a href="IN-SPACe.html" title="Read More about INSPACE">
+                INSPACE
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-relatedLinks">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_2.jpg.webp">
+            <div class="menu-content">
+              <a href="NSIL.html" title="Read More about NSIL">
+                NSIL
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-relatedLinks">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_2.jpg.webp">
+            <div class="menu-content">
+              <a href="autonomous.html" title="Read More about Autonomous bodies">
+                Autonomous bodies
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-relatedLinks">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_set.jpg.webp">
+            <div class="menu-content">
+              <a href="Archives.html" title="Read More about Archives">
+                Archives
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-relatedLinks">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_set.jpg.webp">
+            <div class="menu-content">
+              <a href="Atmanirbhar/" title="Read More about  Antariksh mein Atmanirbharata">
+                Antariksh mein Atmanirbharata
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-relatedLinks">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_set.jpg.webp">
+            <div class="menu-content">
+              <a href="Janbhagidari/" title="Read More about JanBhagidari">
+                JanBhagidari
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-otherportal">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_2.jpg.webp">
+            <div class="menu-content">
+              <a tabindex="0" onclick="outsideAlert('https://www.nvsp.in/')"
+                onkeypress="outsideAlert1(event, 'https://www.nvsp.in/')" style="cursor:pointer;"
+                title="Read More about National Voter's Service">
+                National Voter's Service
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-otherportal">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_2.jpg.webp">
+            <div class="menu-content">
+              <a tabindex="0" onclick="outsideAlert('https://services.india.gov.in/')"
+                onkeypress="outsideAlert1(event, 'https://services.india.gov.in/')" style="cursor:pointer;"
+                title="Read More about National Government Service">
+                National Government Service
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-otherportal">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_2.jpg.webp">
+            <div class="menu-content">
+              <a tabindex="0" onclick="outsideAlert('https://cssteapun.org/')"
+                onkeypress="outsideAlert1(event, 'https://cssteapun.org/')" style="cursor:pointer;"
+                title="Read more about CSSTEAP">
+                CSSTEAP
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-otherportal">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_2.jpg.webp">
+            <div class="menu-content">
+              <a tabindex="0" onclick="outsideAlert('https://www.pib.gov.in/')"
+                onkeypress="outsideAlert1(event, 'https://www.pib.gov.in/')" style="cursor:pointer;"
+                title="Read More about PIB">
+                PIB
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-otherportal">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_2.jpg.webp">
+            <div class="menu-content">
+              <a tabindex="0" onclick="outsideAlert('https://cpao.nic.in/Pensioner/ppo_status.php')"
+                onkeypress="outsideAlert1(event, 'https://cpao.nic.in/Pensioner/ppo_status.php')"
+                style="cursor:pointer;" title="Read More about 7th CPC Pension Revision Status">
+                7th CPC Pension Revision Status
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-otherportal">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_2.jpg.webp">
+            <div class="menu-content">
+              <a href="/media_isro/pdf/bilingual_100_sentences.pdf" title="Read More about e-Saral Hindi Vakyakosh">
+                e-Saral Hindi Vakyakosh
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-tender">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_1.jpg.webp">
+            <div class="menu-content">
+              <a tabindex="0" onclick="outsideAlert('https://apps.ursc.gov.in/liveregister/')"
+                onkeypress="outsideAlert1(event, 'https://apps.ursc.gov.in/liveregister/')" style="cursor:pointer;"
+                title="Read More about Procurement Live Register">
+                Procurement Live Register
+              </a>
+              <span>
+              </span>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-tender">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_1.jpg.webp">
+            <div class="menu-content">
+              <a href="Tenders.html" title="Read More about Tender Notices">
+                Tender Notices
+              </a>
+              <span>
+              </span>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-tender">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_img.jpg.webp">
+            <div class="menu-content">
+              <a tabindex="0" onclick="outsideAlert('https://eproc.vssc.gov.in/')"
+                onkeypress="outsideAlert1(event, 'https://eproc.vssc.gov.in/')" style="cursor:pointer;"
+                title="Read More about E-procurment New">
+                E-procurment New
+              </a>
+              <span>
+              </span>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-reports">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_1.jpg.webp">
+            <div class="menu-content">
+              <a href="Press.html" title="Read More about Press Release">
+                Press Release
+              </a>
+              <span>
+              </span>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-reports">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_1.jpg.webp">
+            <div class="menu-content">
+              <a href="publications.html" title="Read More about Publications">
+                Publications
+              </a>
+              <span>
+              </span>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-reports">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_new.jpg.webp">
+            <div class="menu-content">
+              <a href="AnnualReports.html" title="Read More about Annual Report">
+                Annual Report
+              </a>
+              <span>
+              </span>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-reports">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_set.jpg.webp">
+            <div class="menu-content">
+              <a href="/media_isro/pdf/ISMDataSheets.pdf" title="Read More about ISM Data Sheet">
+                ISM Data Sheets
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-reports">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_set.jpg.webp">
+            <div class="menu-content">
+              <a href="Chandrayaan_2.html" title="Read More about Chandrayaan-2 Product documents">
+                Chandrayaan-2
+                Product documents
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-otherportal">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_edit.jpg.webp">
+            <div class="menu-content">
+              <a href="MonthlySummary.html" title="Read More about Monthly Summary of DOS">
+                Monthly Summary of DOS
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-Policies">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_set.jpg.webp">
+            <div class="menu-content">
+              <a href="IndiaSpacePolicy.html" title="Read More about India's Space Policy
+              ">
+                India's Space Policy
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 menu-item filter-Policies">
+            <img alt="icon" class="menu-img" src="/media_isro/image/menu/menu_set.jpg.webp">
+            <div class="menu-content">
+              <a href="Website_Policy.html" title="Read More about Website Policy">
+                Website Policy
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- End of usefullink -->
+      </div>
+    </section>
+    <!-- End Menu Section -->
+  </main>
+  <!-- End #main -->
+  <!-- ======= Footer Starts======= -->
+  <script src="header/footer_include.js">
+  </script>
+  <!-- ======= Footer Ends======= -->
+  <script>
+    function popupDiv(id) {
+      document.getElementById("storyId").style.display = 'inline';
+    }
+    function popdownDiv() {
+
+      document.getElementById("storyId").style.display = 'none';
+    }
+    function podownDivTender() {
+      document.getElementById("tenderId").style.display = 'none';
+    }
+
+    function podownDivCareer() {
+      document.getElementById("careerId").style.display = 'none';
+    }
+
+    function podownDivStudents() {
+      document.getElementById("studentId").style.display = 'none';
+    }
+
+    function popupDivCareer(id) {
+      document.getElementById("storyId").style.display = 'none';
+      document.getElementById("careerId").style.display = 'inline';
+    }
+
+    function popupDivStudents(id) {
+      document.getElementById("careerId").style.display = 'none';
+      document.getElementById("studentId").style.display = 'inline';
+    }
+    function popupDivTender(id) {
+      document.getElementById("studentId").style.display = 'none';
+      document.getElementById("tenderId").style.display = 'inline';
+    }
+    function outsideAlert(url) {
+      if (confirm("You will be directed to an external website. Are you sure that you want to proceed?")) {
+        window.open(url, '_blank');
+      }
+    }
+    function outsideAlert1(event, url) {
+      if (event.keyCode === 13) {
+        if (confirm("You will be directed to an external website. Are you sure that you want to proceed?")) {
+          window.open(url, '_blank');
+        }
+      }
+    }
+    document.getElementById("pressrelease").addEventListener("keyup", function (event) {
+      if (event.keyCode === 13) {
+        if (document.getElementById("storyId").style.display === "none") {
+          popupDiv('storyId');
+          podownDivCareer();
+          podownDivStudents();
+          podownDivTender();
+        } else { popdownDiv(); }
+      }
+    });
+    document.getElementById("careercontent").addEventListener("keyup", function (event) {
+      if (event.keyCode === 13) {
+        if (document.getElementById("careerId").style.display === "none") {
+          popupDivCareer('careerId');
+          popdownDiv();
+          podownDivStudents();
+          podownDivTender();
+        } else { podownDivCareer(); }
+      }
+    });
+    document.getElementById("studentscontent").addEventListener("keyup", function (event) {
+      if (event.keyCode === 13) {
+        if (document.getElementById("studentId").style.display === "none") {
+          popupDivStudents('studentId');
+          popdownDiv();
+          podownDivCareer();
+          podownDivTender();
+        } else { podownDivStudents(); }
+      }
+    });
+    document.getElementById("tendercontent").addEventListener("keyup", function (event) {
+      if (event.keyCode === 13) {
+        if (document.getElementById("tenderId").style.display === "none") {
+          popupDivTender('tenderId');
+          popdownDiv();
+          podownDivCareer();
+          podownDivStudents();
+        } else { podownDivTender(); }
+      }
+    });
+  </script>
+</body>
+
+
+</html>
