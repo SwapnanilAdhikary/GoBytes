@@ -15,3 +15,4 @@ func main() {
 	fmt.Println("Fruit list is: ", fruitList)
 	fmt.Println("length of arry is :",len(fruitList))
 }
+//
