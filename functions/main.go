@@ -27,3 +27,4 @@ func proAdder(values ...int) int{
 func greeter() {
 	fmt.Println("Namstey from golang")
 }
+//
